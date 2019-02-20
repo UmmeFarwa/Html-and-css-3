@@ -1,0 +1,167 @@
+.outerbox {
+    background-color: #F2F7FA;
+    float: right;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+    padding: 49px;
+    font-size: 12px;
+    color: rgb(44, 44, 46);
+    border-spacing: 0px 5px;
+    margin: 0;
+}
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+tr {
+    background-color: #FFFFFF;
+}
+
+td {
+    padding: 20px 32px;
+}
+
+#background {
+    text-align: left;
+    background-color: #F2F7FA;
+    color: rgb(143, 147, 148);
+
+}
+
+button {
+    float: right;
+    background-color: #34CB35;
+    color: #E7FBE0;
+    padding: 10px 20px;
+
+    border: none;
+    border-radius: 7px;
+}
+
+.table_head {
+    padding: 0px 30px;
+}
+
+.fontstyle {
+    font-size: 17px;
+    color: #4a4f53;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.smallfont {
+    font-size: 12px;
+    color: #B0B4B7;
+}
+
+.nav-panel,
+.main-content
+{
+    display:inline-block;
+
+}
+.nav-panel {
+   
+    width: 213px;
+    margin: 0%;
+    float: left;
+    margin-top: 30px;
+   
+}
+.highlight
+{
+    color:rgb(107, 111, 114);      
+    font-size: 13px;
+    padding: 5px 20px;
+    }
+.highlight:hover
+{
+    background-color: #E7F3FF;
+    color:#4697F2;
+}
+
+a{
+    text-decoration: none;
+    color: #B1B5B8;
+
+    
+   
+}
+a:hover
+{
+    color:#4697F2;
+}
+
+.icon
+{
+    padding: 15px;
+}
+
+.block
+{
+    display:inline-block;
+    vertical-align: top;
+}
+.icon_style
+
+{
+    background-color:#E7F3FF;
+    border-radius: 50%;
+    border: 1x solid grey;
+    padding:17px;
+    color:#2D8BE6;
+    font-size: 15px;
+    vertical-align: top;
+    margin-top: 8px;
+}
+
+input
+{
+    border: none;
+    width:850px;
+    padding: 10px 10px;
+    color: #B7B7B7;
+    margin-bottom: 8px;
+
+}  
+header
+{       
+    border-top:2px solid rgb(175, 170, 170);
+    border-bottom:1px solid rgb(230, 222, 222);
+
+
+}
+
+
+.iconcolors
+{
+    color: #B7B7B7;
+    font-size: 16px;
+
+}
+.margin
+{
+    font-size:25px;
+    padding: 10px;
+    margin-left: 30px;  
+}
+.style
+{
+    color:#E7F3FF;
+
+    background: #34CB35;
+    border-radius: 50%;
+    border: none;
+    font-size: 45px;
+    padding: 0px;
+}
+.telegram
+{
+    display: inline-block;
+    margin-top: 10px;
+}
